@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Offthewall95
 - 👀 I’m interested in advancing the use of Microsoft 365, mainly focussing on the usefull power of Excel
-- 🌱 I’m currently learning how to develop my freelance consulatancy skills and automation
+- 🌱 I’m currently learning how to develop my freelance consulatancy skills and automation. However, I'd love to learn about data science frameworks, software development frameworks and quality assurance frameworks if you have any suggestions.
 - 💞️ I’m looking to collaborate on any projects requiring VBA solutions, but generally I just love a learning opportunity
 - 📫 How to reach me bas_financials@outlook.com
 
